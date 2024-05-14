@@ -3,6 +3,7 @@
 A simple To do list created with React. Tasks can be added, deleted, moved up and down.
 
 ![Screenshot (000)](./ss0.jpg)
+![Screenshot (001)](./ss1.gif)
 
 ## React + Vite
 
